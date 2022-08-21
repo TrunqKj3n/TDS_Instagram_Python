@@ -8,6 +8,6 @@
 ```
 ## Run
 ```
-pip3 install -r requirements.txt
+pip3 install -r require.txt
 python app.py
 ```
